@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stori\\OneDrive\\Desktop\\ByteMe Josh\\ByteMePipedrive\\ByteMePipedrive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24180FB2-C1AF-4B5F-B78E-A805FFBEF613}|ByteMePipedrive.csproj|c:\\users\\stori\\onedrive\\desktop\\byteme josh\\bytemepipedrive\\bytemepipedrive\\controller\\pipedrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24180FB2-C1AF-4B5F-B78E-A805FFBEF613}|ByteMePipedrive.csproj|solutionrelative:controller\\pipedrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24180FB2-C1AF-4B5F-B78E-A805FFBEF613}|ByteMePipedrive.csproj|c:\\users\\stori\\onedrive\\desktop\\byteme josh\\bytemepipedrive\\bytemepipedrive\\service\\ipipedrivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24180FB2-C1AF-4B5F-B78E-A805FFBEF613}|ByteMePipedrive.csproj|solutionrelative:service\\ipipedrivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24180FB2-C1AF-4B5F-B78E-A805FFBEF613}|ByteMePipedrive.csproj|c:\\users\\stori\\onedrive\\desktop\\byteme josh\\bytemepipedrive\\bytemepipedrive\\service\\pipedrivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24180FB2-C1AF-4B5F-B78E-A805FFBEF613}|ByteMePipedrive.csproj|solutionrelative:service\\pipedrivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPipedriveManager.cs",
+              "DocumentMoniker": "C:\\Users\\stori\\OneDrive\\Desktop\\ByteMe Josh\\ByteMePipedrive\\ByteMePipedrive\\Service\\IPipedriveManager.cs",
+              "RelativeDocumentMoniker": "Service\\IPipedriveManager.cs",
+              "ToolTip": "C:\\Users\\stori\\OneDrive\\Desktop\\ByteMe Josh\\ByteMePipedrive\\ByteMePipedrive\\Service\\IPipedriveManager.cs",
+              "RelativeToolTip": "Service\\IPipedriveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:38:39.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PipedriveManager.cs",
+              "DocumentMoniker": "C:\\Users\\stori\\OneDrive\\Desktop\\ByteMe Josh\\ByteMePipedrive\\ByteMePipedrive\\Service\\PipedriveManager.cs",
+              "RelativeDocumentMoniker": "Service\\PipedriveManager.cs",
+              "ToolTip": "C:\\Users\\stori\\OneDrive\\Desktop\\ByteMe Josh\\ByteMePipedrive\\ByteMePipedrive\\Service\\PipedriveManager.cs",
+              "RelativeToolTip": "Service\\PipedriveManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:38:29.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PipedriveController.cs",
+              "DocumentMoniker": "C:\\Users\\stori\\OneDrive\\Desktop\\ByteMe Josh\\ByteMePipedrive\\ByteMePipedrive\\Controller\\PipedriveController.cs",
+              "RelativeDocumentMoniker": "Controller\\PipedriveController.cs",
+              "ToolTip": "C:\\Users\\stori\\OneDrive\\Desktop\\ByteMe Josh\\ByteMePipedrive\\ByteMePipedrive\\Controller\\PipedriveController.cs",
+              "RelativeToolTip": "Controller\\PipedriveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T15:38:12.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
